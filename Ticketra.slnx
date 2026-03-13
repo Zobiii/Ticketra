@@ -1,9 +1,9 @@
 <Solution>
+  
+  <Project Path="src/Ticketra.Web/Ticketra.Web.csproj" />
   <Project Path="src/Ticketra.Application/Ticketra.Application.csproj" />
   <Project Path="src/Ticketra.Contracts/Ticketra.Contracts.csproj" />
   <Project Path="src/Ticketra.Domain/Ticketra.Domain.csproj" />
   <Project Path="src/Ticketra.Infrastructure/Ticketra.Infrastructure.csproj" />
   <Project Path="src/Ticketra.Seeding/Ticketra.Seeding.csproj" />
-  <Project Path="src/Ticketra.Web/Ticketra.Web.Client/Ticketra.Web.Client.csproj" />
-  <Project Path="src/Ticketra.Web/Ticketra.Web/Ticketra.Web.csproj" />
 </Solution>
